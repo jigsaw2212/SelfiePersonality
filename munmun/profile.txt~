@@ -1,0 +1,13 @@
+Vice President Johnson, Mr. Speaker, Mr. Chief Justice, President Eisenhower,
+Vice President Nixon, President Truman, Reverend Clergy, fellow citizens:
+
+We observe today not a victory of party but a celebration of freedom --
+symbolizing an end as well as a beginning -- signifying renewal as well as
+change. For I have sworn before you and Almighty God the same solemn oath our
+forbears prescribed nearly a century and three-quarters ago.
+
+
+curl -X POST --user {username}:{password}
+--header "Content-Type: text/plain;charset=utf-8"
+--data-binary "@<path>profile.txt"
+"https://gateway.watsonplatform.net/personality-insights/api/v3/profile?version=2016-10-20"

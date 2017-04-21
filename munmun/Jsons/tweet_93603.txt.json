@@ -1,0 +1,435 @@
+{
+  "warnings": [
+    {
+      "message": "There were 203 words in the input. We need a minimum of 600, preferably 1,200 or more, to compute statistically significant estimates", 
+      "warning_id": "WORD_COUNT_MESSAGE"
+    }
+  ], 
+  "tree": {
+    "children": [
+      {
+        "children": [
+          {
+            "category": "personality", 
+            "percentage": 0.9283087789579857, 
+            "children": [
+              {
+                "category": "personality", 
+                "name": "Openness", 
+                "sampling_error": 0.0643466191, 
+                "id": "Openness", 
+                "percentage": 0.9283087789579857, 
+                "children": [
+                  {
+                    "category": "personality", 
+                    "percentage": 0.33192847733798025, 
+                    "id": "Adventurousness", 
+                    "sampling_error": 0.0537327103, 
+                    "name": "Adventurousness"
+                  }, 
+                  {
+                    "category": "personality", 
+                    "percentage": 0.5502625444928968, 
+                    "id": "Artistic interests", 
+                    "sampling_error": 0.1094860235, 
+                    "name": "Artistic interests"
+                  }, 
+                  {
+                    "category": "personality", 
+                    "percentage": 0.48667634670270815, 
+                    "id": "Emotionality", 
+                    "sampling_error": 0.0502396102, 
+                    "name": "Emotionality"
+                  }, 
+                  {
+                    "category": "personality", 
+                    "percentage": 0.5961395035706532, 
+                    "id": "Imagination", 
+                    "sampling_error": 0.0678669083, 
+                    "name": "Imagination"
+                  }, 
+                  {
+                    "category": "personality", 
+                    "percentage": 0.7530015503334317, 
+                    "id": "Intellect", 
+                    "sampling_error": 0.0595488489, 
+                    "name": "Intellect"
+                  }, 
+                  {
+                    "category": "personality", 
+                    "percentage": 0.8471503736823222, 
+                    "id": "Liberalism", 
+                    "sampling_error": 0.0876022403, 
+                    "name": "Authority-challenging"
+                  }
+                ]
+              }, 
+              {
+                "category": "personality", 
+                "name": "Conscientiousness", 
+                "sampling_error": 0.08037090540000001, 
+                "id": "Conscientiousness", 
+                "percentage": 0.23611967010373391, 
+                "children": [
+                  {
+                    "category": "personality", 
+                    "percentage": 0.23380087507966035, 
+                    "id": "Achievement striving", 
+                    "sampling_error": 0.1035954946, 
+                    "name": "Achievement striving"
+                  }, 
+                  {
+                    "category": "personality", 
+                    "percentage": 0.41677699858437595, 
+                    "id": "Cautiousness", 
+                    "sampling_error": 0.0959336262, 
+                    "name": "Cautiousness"
+                  }, 
+                  {
+                    "category": "personality", 
+                    "percentage": 0.12501405537274285, 
+                    "id": "Dutifulness", 
+                    "sampling_error": 0.0644918284, 
+                    "name": "Dutifulness"
+                  }, 
+                  {
+                    "category": "personality", 
+                    "percentage": 0.9200310005676975, 
+                    "id": "Orderliness", 
+                    "sampling_error": 0.0737082255, 
+                    "name": "Orderliness"
+                  }, 
+                  {
+                    "category": "personality", 
+                    "percentage": 0.19418613058407552, 
+                    "id": "Self-discipline", 
+                    "sampling_error": 0.0492507714, 
+                    "name": "Self-discipline"
+                  }, 
+                  {
+                    "category": "personality", 
+                    "percentage": 0.13747846024514493, 
+                    "id": "Self-efficacy", 
+                    "sampling_error": 0.0968839068, 
+                    "name": "Self-efficacy"
+                  }
+                ]
+              }, 
+              {
+                "category": "personality", 
+                "name": "Extraversion", 
+                "sampling_error": 0.060100788100000004, 
+                "id": "Extraversion", 
+                "percentage": 0.43530829750583167, 
+                "children": [
+                  {
+                    "category": "personality", 
+                    "percentage": 0.3419290620023213, 
+                    "id": "Activity level", 
+                    "sampling_error": 0.08220936429999999, 
+                    "name": "Activity level"
+                  }, 
+                  {
+                    "category": "personality", 
+                    "percentage": 0.1988632219291761, 
+                    "id": "Assertiveness", 
+                    "sampling_error": 0.0875151277, 
+                    "name": "Assertiveness"
+                  }, 
+                  {
+                    "category": "personality", 
+                    "percentage": 0.22676221035294075, 
+                    "id": "Cheerfulness", 
+                    "sampling_error": 0.1101384797, 
+                    "name": "Cheerfulness"
+                  }, 
+                  {
+                    "category": "personality", 
+                    "percentage": 0.22683273804052706, 
+                    "id": "Excitement-seeking", 
+                    "sampling_error": 0.0840606168, 
+                    "name": "Excitement-seeking"
+                  }, 
+                  {
+                    "category": "personality", 
+                    "percentage": 0.292425902020528, 
+                    "id": "Friendliness", 
+                    "sampling_error": 0.07909576019999999, 
+                    "name": "Outgoing"
+                  }, 
+                  {
+                    "category": "personality", 
+                    "percentage": 0.39002853746800575, 
+                    "id": "Gregariousness", 
+                    "sampling_error": 0.060329064599999996, 
+                    "name": "Gregariousness"
+                  }
+                ]
+              }, 
+              {
+                "category": "personality", 
+                "name": "Agreeableness", 
+                "sampling_error": 0.101050971, 
+                "id": "Agreeableness", 
+                "percentage": 0.293363417219345, 
+                "children": [
+                  {
+                    "category": "personality", 
+                    "percentage": 0.4075882038680027, 
+                    "id": "Altruism", 
+                    "sampling_error": 0.0745416362, 
+                    "name": "Altruism"
+                  }, 
+                  {
+                    "category": "personality", 
+                    "percentage": 0.32373834317403466, 
+                    "id": "Cooperation", 
+                    "sampling_error": 0.0832870653, 
+                    "name": "Cooperation"
+                  }, 
+                  {
+                    "category": "personality", 
+                    "percentage": 0.585546876603183, 
+                    "id": "Modesty", 
+                    "sampling_error": 0.0594077497, 
+                    "name": "Modesty"
+                  }, 
+                  {
+                    "category": "personality", 
+                    "percentage": 0.33282701236816187, 
+                    "id": "Morality", 
+                    "sampling_error": 0.0662306569, 
+                    "name": "Uncompromising"
+                  }, 
+                  {
+                    "category": "personality", 
+                    "percentage": 0.6083386340194917, 
+                    "id": "Sympathy", 
+                    "sampling_error": 0.1022310154, 
+                    "name": "Sympathy"
+                  }, 
+                  {
+                    "category": "personality", 
+                    "percentage": 0.16642620279190656, 
+                    "id": "Trust", 
+                    "sampling_error": 0.0600879476, 
+                    "name": "Trust"
+                  }
+                ]
+              }, 
+              {
+                "category": "personality", 
+                "name": "Emotional range", 
+                "sampling_error": 0.095486345, 
+                "id": "Neuroticism", 
+                "percentage": 0.705672096711721, 
+                "children": [
+                  {
+                    "category": "personality", 
+                    "percentage": 0.603628616126946, 
+                    "id": "Anger", 
+                    "sampling_error": 0.0983701521, 
+                    "name": "Fiery"
+                  }, 
+                  {
+                    "category": "personality", 
+                    "percentage": 0.728108585781144, 
+                    "id": "Anxiety", 
+                    "sampling_error": 0.0581616419, 
+                    "name": "Prone to worry"
+                  }, 
+                  {
+                    "category": "personality", 
+                    "percentage": 0.8134735229084791, 
+                    "id": "Depression", 
+                    "sampling_error": 0.062333579199999996, 
+                    "name": "Melancholy"
+                  }, 
+                  {
+                    "category": "personality", 
+                    "percentage": 0.6041788478149188, 
+                    "id": "Immoderation", 
+                    "sampling_error": 0.055909068299999996, 
+                    "name": "Immoderation"
+                  }, 
+                  {
+                    "category": "personality", 
+                    "percentage": 0.7078892231064849, 
+                    "id": "Self-consciousness", 
+                    "sampling_error": 0.060296453900000005, 
+                    "name": "Self-consciousness"
+                  }, 
+                  {
+                    "category": "personality", 
+                    "percentage": 0.7231653324355523, 
+                    "id": "Vulnerability", 
+                    "sampling_error": 0.0899150318, 
+                    "name": "Susceptible to stress"
+                  }
+                ]
+              }
+            ], 
+            "id": "Openness_parent", 
+            "name": "Openness"
+          }
+        ], 
+        "id": "personality", 
+        "name": "Big 5"
+      }, 
+      {
+        "children": [
+          {
+            "category": "needs", 
+            "percentage": 0.1204385775608468, 
+            "children": [
+              {
+                "category": "needs", 
+                "percentage": 0.2488985911041951, 
+                "id": "Challenge", 
+                "sampling_error": 0.08685130939999999, 
+                "name": "Challenge"
+              }, 
+              {
+                "category": "needs", 
+                "percentage": 0.27572775340008215, 
+                "id": "Closeness", 
+                "sampling_error": 0.0857344306, 
+                "name": "Closeness"
+              }, 
+              {
+                "category": "needs", 
+                "percentage": 0.5872851243574069, 
+                "id": "Curiosity", 
+                "sampling_error": 0.12413440690000001, 
+                "name": "Curiosity"
+              }, 
+              {
+                "category": "needs", 
+                "percentage": 0.36776884265290344, 
+                "id": "Excitement", 
+                "sampling_error": 0.11330276539999999, 
+                "name": "Excitement"
+              }, 
+              {
+                "category": "needs", 
+                "percentage": 0.23467253444013803, 
+                "id": "Harmony", 
+                "sampling_error": 0.1134787888, 
+                "name": "Harmony"
+              }, 
+              {
+                "category": "needs", 
+                "percentage": 0.27954005538093796, 
+                "id": "Ideal", 
+                "sampling_error": 0.1029107115, 
+                "name": "Ideal"
+              }, 
+              {
+                "category": "needs", 
+                "percentage": 0.19153009125772108, 
+                "id": "Liberty", 
+                "sampling_error": 0.1499339409, 
+                "name": "Liberty"
+              }, 
+              {
+                "category": "needs", 
+                "percentage": 0.32486969622734163, 
+                "id": "Love", 
+                "sampling_error": 0.1044369584, 
+                "name": "Love"
+              }, 
+              {
+                "category": "needs", 
+                "percentage": 0.5572639819014161, 
+                "id": "Practicality", 
+                "sampling_error": 0.0907010256, 
+                "name": "Practicality"
+              }, 
+              {
+                "category": "needs", 
+                "percentage": 0.27202722990647576, 
+                "id": "Self-expression", 
+                "sampling_error": 0.0844354398, 
+                "name": "Self-expression"
+              }, 
+              {
+                "category": "needs", 
+                "percentage": 0.19973130535314443, 
+                "id": "Stability", 
+                "sampling_error": 0.11036133420000001, 
+                "name": "Stability"
+              }, 
+              {
+                "category": "needs", 
+                "percentage": 0.1204385775608468, 
+                "id": "Structure", 
+                "sampling_error": 0.0829016129, 
+                "name": "Structure"
+              }
+            ], 
+            "id": "Structure_parent", 
+            "name": "Structure"
+          }
+        ], 
+        "id": "needs", 
+        "name": "Needs"
+      }, 
+      {
+        "children": [
+          {
+            "category": "values", 
+            "percentage": 0.1638997026696848, 
+            "children": [
+              {
+                "category": "values", 
+                "percentage": 0.19101524273396353, 
+                "id": "Conservation", 
+                "sampling_error": 0.07046277520000001, 
+                "name": "Conservation"
+              }, 
+              {
+                "category": "values", 
+                "percentage": 0.47243801268887115, 
+                "id": "Openness to change", 
+                "sampling_error": 0.0674804105, 
+                "name": "Openness to change"
+              }, 
+              {
+                "category": "values", 
+                "percentage": 0.48042350110551446, 
+                "id": "Hedonism", 
+                "sampling_error": 0.1418931226, 
+                "name": "Hedonism"
+              }, 
+              {
+                "category": "values", 
+                "percentage": 0.37125604049951944, 
+                "id": "Self-enhancement", 
+                "sampling_error": 0.10754348949999999, 
+                "name": "Self-enhancement"
+              }, 
+              {
+                "category": "values", 
+                "percentage": 0.1638997026696848, 
+                "id": "Self-transcendence", 
+                "sampling_error": 0.0854675275, 
+                "name": "Self-transcendence"
+              }
+            ], 
+            "id": "Self-transcendence_parent", 
+            "name": "Self-transcendence"
+          }
+        ], 
+        "id": "values", 
+        "name": "Values"
+      }
+    ], 
+    "id": "r", 
+    "name": "root"
+  }, 
+  "word_count": 203, 
+  "processed_lang": "en", 
+  "source": "*UNKNOWN*", 
+  "word_count_message": "There were 203 words in the input. We need a minimum of 600, preferably 1,200 or more, to compute statistically significant estimates", 
+  "id": "*UNKNOWN*"
+}
